@@ -1131,6 +1131,7 @@ textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type=
 }
 .form-bt {
 	text-align:right;
+	display: inline-block;
 }
 .testimonial-list {
 	margin:10px 0px 10px 20px;
